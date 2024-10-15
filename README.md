@@ -8,8 +8,8 @@
 ## Fechas
 
 - **Inicio**: 09/10/2024 00:00
-- **Fin**: 13/10/2024 23:59
-- **Notificación de ganadores**: 14/10/2024 12:00
+- **Fin**: 14/10/2024 23:59
+- **Notificación de ganadores**: 15/10/2024 12:00
 - **Entregra de reconocimientos y premios**: 16/10/2024 durante el [Innova-T Latam](https://innovatlatam.com/)
 
 ## ¿Cómo enviar tu Propuesta de Proyecto?
